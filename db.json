@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "shubham",
+      "age": "65",
+      "DBO": "",
+      "address": "Nashik",
+      "state": "MAHARASHTRA",
+      "pincode": "422010",
+      "DOB": "2022-03-31",
+      "id": 1
+    }
+  ]
+}
